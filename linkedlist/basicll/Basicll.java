@@ -19,7 +19,7 @@ public static void main(String[] args)  {
     b.next = c;
     c.next = d;
     d.next = null;
-    // Node temp = a;
+    Node temp = a;
     // for(int i=1; i<=4; i++){
     //     System.out.println(temp.data);
     //     temp = temp.next;
