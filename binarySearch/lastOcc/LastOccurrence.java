@@ -1,3 +1,4 @@
+// package lastOcc;
 // Find last occurrence of given number, when array is sorted, if no occurrence then return -1
 //T(n) = log n
 public class LastOccurrence {
