@@ -49,8 +49,7 @@
 //    }
 //}
 
-//third
-
+//third method
 
 import java.util.Scanner;
 

@@ -1,5 +1,3 @@
-
-
 import java.util.Arrays;
 
 public class changeValue {
@@ -9,6 +7,6 @@ public class changeValue {
         System.out.println(Arrays.toString(arr));
     }
     static void change(int[] num){
-        num[0] = 99;
+        num[0] = 9;
     }
 }
